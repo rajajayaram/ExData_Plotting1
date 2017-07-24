@@ -112,3 +112,9 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+### The GIT repository contains 8 files plot[1-4].R and plot[1-4].png
+
+The GIT repository is forked from the rdpeng/ExData_Plotting1
+Each plot[1-4].R file contains explanation about the logic being used in the beginning.                                                                               
+There are 4 png files plot[1-4].png(480*480) contains the 4 plot png output files as required by the course project
+
